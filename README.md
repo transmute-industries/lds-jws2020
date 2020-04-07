@@ -1,0 +1,1 @@
+# [Moved to the W3C CCG](https://github.com/w3c-ccg/lds-jws2020)
